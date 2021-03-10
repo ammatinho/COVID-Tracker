@@ -1,6 +1,6 @@
 # COVID-Tracker
 
-•	 Built a Java Spring Boot Application from scratch
+•	 Built a Java Spring Boot Application from scratch to track the reported daily numbers of confirmed Coronavirus infections
 
 • 
 
